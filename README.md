@@ -14,7 +14,7 @@ Sistem pendeteksian dan penghitungan volume kendaraan berbasis *Computer Vision*
 
 | Deteksi & Bounding Box | Tracking & Counting |
 | :---: | :---: |
-| ![Vehicle Detection](assets/detection_sample.jpg) | ![Vehicle Counting](assets/counting_sample.jpg) |
+| ![Vehicle Detection](assets/detection_sample.jpeg) | ![Vehicle Counting](assets/counting_sample.jpeg) |
 
 
 
